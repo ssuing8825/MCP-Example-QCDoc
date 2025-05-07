@@ -1,0 +1,4 @@
+Run this in the folder with the project file to test your MCP Server
+npx @modelcontextprotocol/inspector dotnet run
+
+https://localhost:7006/swagger/index.html

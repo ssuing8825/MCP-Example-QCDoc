@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\MCP-Example-QCDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD278BA4-3864-48DE-B674-33942D704888}|QCDoc.Test\\QCDoc.Test.csproj|c:\\dev\\mcp-example-qcdoc\\qcdoc.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD278BA4-3864-48DE-B674-33942D704888}|QCDoc.Test\\QCDoc.Test.csproj|solutionrelative:qcdoc.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}|QCDoc-MCPService\\QCDoc-MCPService.csproj|c:\\dev\\mcp-example-qcdoc\\qcdoc-mcpservice\\qcdocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}|QCDoc-MCPService\\QCDoc-MCPService.csproj|solutionrelative:qcdoc-mcpservice\\qcdocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Dev\\MCP-Example-QCDoc\\QCDoc.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "QCDoc.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Dev\\MCP-Example-QCDoc\\QCDoc.Test\\UnitTest1.cs",
+              "RelativeToolTip": "QCDoc.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:46:19.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QCDocService.cs",
+              "DocumentMoniker": "C:\\Dev\\MCP-Example-QCDoc\\QCDoc-MCPService\\QCDocService.cs",
+              "RelativeDocumentMoniker": "QCDoc-MCPService\\QCDocService.cs",
+              "ToolTip": "C:\\Dev\\MCP-Example-QCDoc\\QCDoc-MCPService\\QCDocService.cs",
+              "RelativeToolTip": "QCDoc-MCPService\\QCDocService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:46:06.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

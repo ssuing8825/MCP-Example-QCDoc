@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "qcdoc-mcp-server": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run", 
+                "--project",
+                "C:/Dev/MCP-Example-QCDoc/QCDoc-MCPService/QCDoc-MCPService.csproj"
+            ],
+        }
+    }
+}

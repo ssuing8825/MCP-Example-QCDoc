@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QCDoc-API", "QCDoc-API", "{D4F9EB76-0CE0-457D-8DE8-94757867C02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCDoc-MCPService", "QCDoc-MCPService\QCDoc-MCPService.csproj", "{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCDoc.Test", "QCDoc.Test\QCDoc.Test.csproj", "{AD278BA4-3864-48DE-B674-33942D704888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D9720-F780-42BE-8FBF-0F8EE6F19522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD278BA4-3864-48DE-B674-33942D704888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD278BA4-3864-48DE-B674-33942D704888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD278BA4-3864-48DE-B674-33942D704888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD278BA4-3864-48DE-B674-33942D704888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A9D9720-F780-42BE-8FBF-0F8EE6F19522} = {D4F9EB76-0CE0-457D-8DE8-94757867C02E}
+	EndGlobalSection
+EndGlobal
